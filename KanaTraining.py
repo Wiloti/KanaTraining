@@ -27,7 +27,7 @@ class Window(QMainWindow):
         self.kana = QLabel(self)
         self.kana.setFont(QFont("Arial", 150, QFont.Bold))
         self.kana.setStyleSheet("color: #ece8db;")
-        self.kana.setGeometry(100, 150, 200, 200)
+        self.kana.setGeometry(100, 150, 200, 250)
         self.kana.setText(random.choice(list(kana_dict.keys())))
         # create a label which print the score
         self.score = QLabel(self)
