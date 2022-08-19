@@ -9,4 +9,4 @@ chmod +x KanaTraining.py
 ./KanaTraining.py
 ```
 
-![](Readme Screenshot.png)
+![](https://github.com/Wiloti/KanaTraining/blob/main/Readme%20ScreenShot.png?raw=true)
